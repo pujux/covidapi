@@ -16,6 +16,11 @@
 </div>
 <br>
 
+# MOVED TO ANOTHER LOCATION
+
+Please use [novelcovid](https://npmjs.com/novelcovid) from now on. <br>
+No worries though -> Same code, same maintainer, just the official repository.
+
 ## Installation
 
 Using NPM:
